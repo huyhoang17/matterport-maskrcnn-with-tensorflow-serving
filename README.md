@@ -1,7 +1,7 @@
 # matterport-maskrcnn-with-tensorflow-serving
 Custom Mask R-CNN matterport's model with tensorflow serving
 
-- I just took some functions in `mrcnn/utils.py` and `mrcnn/visualize.py`, for example: `api_utils.get_anchors` & `api_utils.unmold_detections`, you can refer to those files in `mrcnn` folder :smile:
+- I just took some functions in `mrcnn/model.py`, for example: `api_utils.get_anchors` & `api_utils.unmold_detections` :smile:
 
 ### Reference: 
 
